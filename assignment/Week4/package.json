@@ -1,0 +1,15 @@
+{
+  "name": "task4-full-stack",
+  "version": "1.0.0",
+  "description": "Full-stack application by Vaibhav Bhargav 22BHI10087",
+  "scripts": {
+    "start": "cd client && npm run dev",
+    "build": "cd client && npm run build"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "serverless-http": "^3.2.0"
+  },
+  "author": "Vaibhav Bhargav"
+} 
